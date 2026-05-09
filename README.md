@@ -1,4 +1,4 @@
-# Durgesh Keshari Deva
+# Durgesh Kumar
 
 ## 🚀 Embedded Systems Engineer | Robotics Developer | Full Stack Engineer
 
